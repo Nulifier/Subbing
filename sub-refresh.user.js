@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Sub List Refresh
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @updateURL    https://github.com/Nulifier/Subbing
+// @version      0.2
+// @updateURL    https://github.com/Nulifier/Subbing/raw/master/sub-refresh.user.js
 // @match        https://epsb.eschoolsolutions.com/substituteAvailableJobAction.do
 // @match        https://epsb.eschoolsolutions.com/substituteAvailableJobInitAction.do
 // @grant        none
