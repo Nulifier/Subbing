@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sub List Refresh
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @updateURL    https://github.com/Nulifier/Subbing/raw/master/sub-refresh.user.js
 // @match        https://epsb.eschoolsolutions.com/substituteAvailableJobAction.do
 // @match        https://epsb.eschoolsolutions.com/substituteAvailableJobInitAction.do
@@ -18,5 +18,5 @@
         disableSearch();
         blockUIForSearch("jobSearchToken", "jobSearchCookie");
         document.forms[0].submit();
-    }, 15.5 * 1000);
+    }, 15.50 * 1000);
 })();
