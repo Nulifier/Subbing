@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Job Accepter
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @updateURL    https://github.com/Nulifier/Subbing/raw/master/job-acceptor.user.js
 // @match        https://epsb.eschoolsolutions.com/substituteAvailableJobDetailInitAction.do*
 // @match        https://epsb.eschoolsolutions.com/substituteAvailableJobDetailAction.do*
