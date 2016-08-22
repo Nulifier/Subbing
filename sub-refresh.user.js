@@ -24,7 +24,7 @@
         // Set the date to be from today to June 30th, 2016
         /// @todo Change this to be 30 days from today.
         $('#startDate').val(moment().format('MM/DD/YYYY'));
-        $('#endDate').val('06/30/2016');
+        $('#endDate').val('06/30/2017');
         
         // Search, these are the same steps the page takes
         disableSearch();
